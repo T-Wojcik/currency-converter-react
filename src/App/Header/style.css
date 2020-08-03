@@ -1,0 +1,10 @@
+.header {
+    color: #333;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+
+.header__quote {
+    color: teal;
+}

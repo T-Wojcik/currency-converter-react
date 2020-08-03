@@ -1,0 +1,33 @@
+.table {
+    width: 100%;
+    max-width: 550px;
+    margin: 50px auto 0 auto;
+    border-collapse: collapse;
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.table__cell {
+    border: 2px solid #333;
+    padding: 10px;
+    text-align: center;
+}
+
+.table__cell--header {
+    background-color: teal;
+    color: white;
+}
+
+.table__row:nth-child(even) {
+    background-color: #ddd;
+}
+
+.table__row:hover {
+    transform: scale(1.01);
+    transition: 0.3s;
+}
