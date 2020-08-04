@@ -18,13 +18,13 @@ export const Table = () => (
                 <td className="table__cell">4,4878</td>
             </tr>
             <tr className="table__row">
-                <th className="table__cell table__cell--header">Lp. 1</th>
+                <th className="table__cell table__cell--header">Lp. 2</th>
                 <td className="table__cell">Dolar</td>
                 <td className="table__cell">3,8922</td>
                 <td className="table__cell">3,9708</td>
             </tr>
             <tr className="table__row">
-                <th className="table__cell table__cell--header">Lp. 1</th>
+                <th className="table__cell table__cell--header">Lp. 3</th>
                 <td className="table__cell">Funt szterling</td>
                 <td className="table__cell">4,8997</td>
                 <td className="table__cell">4,9987</td>
